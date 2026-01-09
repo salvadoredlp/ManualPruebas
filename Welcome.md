@@ -10,8 +10,8 @@
 5. [ORGANIGRAMA](#5--organigrama)
 6. [CATÁLOGO DE SERVICIOS DE SISTEMAS Y COMUNICACIONES](#6--catálogo-de-servicios-de-sistemas-y-comunicaciones)
 7. [VENTANA DE SERVICIOS](#7--ventana-de-servicio)
-8. [EQUIPOS DE INFRAESTRUCTURA](#8--ventana-de-servicio)
-9. [SERVICIOS CRÍTICOS](#9--equipos-de-infraestructura)
+8. [EQUIPOS DE INFRAESTRUCTURA](#8--equipos-de-infraestructura)
+9. [SERVICIOS CRÍTICOS](#9--servicios-críticos)
 10. [MAPA GENERAL](#10--mapa-general)
 
 ---
