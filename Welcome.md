@@ -11,7 +11,7 @@
 6. [CATÁLOGO DE SERVICIOS DE SISTEMAS Y COMUNICACIONES](#6--catálogo-de-servicios-de-sistemas-y-comunicaciones)
 7. [VENTANA DE SERVICIOS](#7--ventana-de-servicio)
 8. [EQUIPOS DE INFRAESTRUCTURA](#8--equipos-de-infraestructura)
-9. [SERVICIOS CRÍTICOS](#9--servicios-críticos)
+9. [Servicios críticos](#9--servicios-críticos)
 10. [MAPA GENERAL](#10--mapa-general)
 
 ---
@@ -68,7 +68,7 @@ Enlaces
 Enlaces
 ### 8.- EQUIPOS DE INFRAESTRUCTURA
 Enlaces
-### 9.- SERVICIOS CRÍTICOS
+### 9.- Servicios críticos
 Enlaces
 ### 10.- MAPA GENERAL
 
