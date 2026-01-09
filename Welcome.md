@@ -16,7 +16,7 @@
 
 ---
 
-### 1.- USUARIOS {#usuarios}
+### 1.- USUARIOS
 
 **Nominal:** Es el usuario por defecto para todas las operativas de: 
 
@@ -39,7 +39,7 @@
 > ☎️ Teléfono fijo- movil  
 > ✉️ napellido@externos.sanidad.gob.es  
   
-### 2.- ACCESO A INFRAESTRUCTURA  {#acceso-a-infraestructura}
+### 2.- ACCESO A INFRAESTRUCTURA 
 
 Independientemente del método de acceso, se precisa generar un token de único asociado al usuario nominal. Se generará con la herramienta proporcionada por el equipo de Comunicaciones.  
 Con el token hay que inventarse un PIN que se usará cuando hay que hacer login.   
