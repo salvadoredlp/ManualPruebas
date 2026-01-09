@@ -4,7 +4,7 @@
 ## Índice 
 
 1. [USUARIOS](#usuarios)
-2. [ACCESO A INFRAESTRUCTURA](#2--acceso-a-infraestructura)
+2. [ACCESO A INFRAESTRUCTURA](#acceso-a-infraestructura)
 3. [URL DE INTERÉS](#3--url-de-interés)
 4. [INCIDENCIAS DE USUARIO](4#--incidencias-de-usuario)
 5. [ORGANIGRAMA](#5--organigrama)
@@ -39,7 +39,7 @@
 > ☎️ Teléfono fijo- movil  
 > ✉️ napellido@externos.sanidad.gob.es  
   
-### 2.- ACCESO A INFRAESTRUCTURA  
+### 2.- ACCESO A INFRAESTRUCTURA  {#acceso-a-infraestructura}
 
 Independientemente del método de acceso, se precisa generar un token de único asociado al usuario nominal. Se generará con la herramienta proporcionada por el equipo de Comunicaciones.  
 Con el token hay que inventarse un PIN que se usará cuando hay que hacer login.   
